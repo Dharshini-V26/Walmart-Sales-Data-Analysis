@@ -9,7 +9,7 @@ The analysis combines **Python-based data analysis** and a **Power BI interactiv
 - Compare Holiday vs Non-Holiday sales performance
 - Study the impact of external factors such as temperature
 - Build a professional Power BI dashboard for decision-making
-## 🗂 Dataset
+## Dataset
 - **Source:** Walmart Sales Dataset
 - **Records:** 6,435 rows
 - **Stores:** 45
